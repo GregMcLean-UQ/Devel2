@@ -1,0 +1,6 @@
+*.out
+*.dat
+*.par
+*.met
+*.exe
+scratch/
